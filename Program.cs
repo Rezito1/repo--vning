@@ -6,6 +6,7 @@
         {
             string name = "Aldor";
             Console.WriteLine(name);
+            Console.WriteLine("Hello there");
         }
     }
 }
