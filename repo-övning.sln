@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repo-övning", "repo-övning.csproj", "{F1CF8981-5A7C-4870-B35E-189D105B14BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CF8981-5A7C-4870-B35E-189D105B14BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CF8981-5A7C-4870-B35E-189D105B14BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CF8981-5A7C-4870-B35E-189D105B14BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CF8981-5A7C-4870-B35E-189D105B14BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F3AD6C-47CB-4B41-A5B1-6A8B129010DE}
+	EndGlobalSection
+EndGlobal
